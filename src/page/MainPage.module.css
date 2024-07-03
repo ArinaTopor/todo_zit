@@ -1,0 +1,13 @@
+.main_wrapper {
+    margin: 0;
+}
+.main_title {
+    text-align: center;
+    margin-bottom: 0;
+}
+.line {
+    color: gray;
+    size: 4px;
+    width: 800px;
+    opacity: 0.6;
+}

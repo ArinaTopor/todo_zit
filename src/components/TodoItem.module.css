@@ -1,0 +1,11 @@
+.hide {
+    display: none;
+}
+.subTasks {
+    display: block;
+    margin-left: 1.5rem;
+}
+
+h3 {
+    font-size: 1rem;
+}

@@ -1,0 +1,17 @@
+.list_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+.list_hide {
+    display: none;
+}
+.list_show {
+    display: block;
+}
+.open {
+    transition: 0.2s;
+}
+.rotate {
+    transform: rotate(180deg);
+}
